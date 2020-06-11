@@ -1,0 +1,3 @@
+[build]
+    command = "npn run build"
+    publish = "dist/"
