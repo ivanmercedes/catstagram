@@ -14,7 +14,7 @@
                 username: "ivan.mercedes"
             }
             comments = [...comments, message];
-            event.taget.text.value ="";
+            event.target.text.value ="";
         }
     }
 </script>
