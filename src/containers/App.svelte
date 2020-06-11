@@ -8,7 +8,7 @@
   
 
   let data ={}
-  const API = "https://api.thecatapi.com/v1/images/search?limit=5";
+  const API = "https://api.thecatapi.com/v1/images/search?limit=50";
 
   onMount(async ()=>{
     const response = await fetch(API);
