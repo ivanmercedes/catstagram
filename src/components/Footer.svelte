@@ -1,7 +1,7 @@
 <div class="Footer">
     <div class="Footer-container">
         <div class="Footer-copy">
-            © 2020 PUGSTAGRAM FROM IVAN MERCEDES
+            © 2020 CATSTAGRAM FROM IVAN MERCEDES
         </div>
     </div>
 </div>
